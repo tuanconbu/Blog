@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Hiếu Nhọ Vê Lốc',
   tagline: 'The tagline of my site',
-  url: 'https://tuanconbu.github.io',
+  url: 'https://tuanconbu.github.io/Blog',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
