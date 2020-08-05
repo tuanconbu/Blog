@@ -12,12 +12,12 @@ const features = [
     imageUrl: 'https://i.pinimg.com/originals/a7/71/26/a77126ed93bff8d24aaa4aa44c77a9b8.jpg',
     description: (
       <>
-        Trang này tạo ra để than thở và tâm sự với người lạ
+        Buồn thì ăn đầu quầy nhá, ăn cứt
       </>
     ),
   },
   {
-    title: <>Trang để vui vẻ ko quạo</>,
+    title: <>Trang vui vẻ ko quạo</>,
     imageUrl: 'https://i.ytimg.com/vi/bzZEH_5OuIs/maxresdefault.jpg',
     description: (
       <>
@@ -26,11 +26,11 @@ const features = [
     ),
   },
   {
-    title: <>Viết bằng React.Js</>,
+    title: <>Ở đây dạy bạn làm người</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Viết mún lòi cứt
+        Cách không làm mà có ăn cũng như ra xã hội làm ăn bươn chải
       </>
     ),
   },

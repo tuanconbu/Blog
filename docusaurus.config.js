@@ -1,27 +1,27 @@
 module.exports = {
-  title: 'Hiếu Nhọ Vê Lốc',
-  tagline: 'The tagline of my site',
+  title: 'Hiếu Hoa Hồng Bờ Lốc',
+  tagline: 'My life runs on code',
   url: 'https://tuanconbu.github.io/Blog',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/logo.svg',
+  organizationName: 'tuanconbu', // Usually your GitHub org/user name.
+  projectName: 'blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'HNV',
+      title: 'Hiếu Rosé',
       logo: {
         alt: 'HNV',
-        src: 'img/logo.png',
+        src: 'img/hieu.jpg',
       },
       items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
-          position: 'left',
+          position: 'right',
         },
-        { to: 'blog', label: 'Blog', position: 'left' },
+        { to: 'blog', label: 'Blog', position: 'right' },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -36,13 +36,9 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Life Experiences',
               to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+            }
           ],
         },
         {
@@ -50,15 +46,11 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/13332799/hi%e1%ba%bfu-nh%e1%bb%8d',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/cauvangdinhbacho',
             },
           ],
         },
@@ -71,12 +63,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/tuanconbu',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hiếu Nhọ Vê Lốc, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

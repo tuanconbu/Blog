@@ -1,202 +1,76 @@
 ---
 id: doc1
-title: Hướng dẫn tán gái (với 3 năm kinh nghiệm)
+title: Hướng dẫn tán gái (với 1 năm kinh nghiệm)
 sidebar_label: Hướng dẫn tán gái
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
-
-## Markdown Syntax
-
-To serve as an example page when styling markdown based Docusaurus sites.
-
-## Headers
-
-# H1 - Create the best documentation
-
-## H2 - Create the best documentation
-
-### H3 - Create the best documentation
-
-#### H4 - Create the best documentation
-
-##### H5 - Create the best documentation
-
-###### H6 - Create the best documentation
-
 ---
 
-## Emphasis
+#### Xin chào các chàng trai… Nếu bạn “may mắn” đọc được bài viết cách tán gái bằng tin nhắn này, thì xin chúc mừng bạn đã đặt được bước chân thành công đầu tiên trên con đường chinh phục crush của bạn.
 
-Emphasis, aka italics, with _asterisks_ or _underscores_.
+**_Nào giờ chúng ta bắt đầu nhé !_**
 
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
+### Quy tắc 1: Gửi tin nhắn cho nàng Ngay và Luôn là cách tán gái đúng đắn
 
-Combined emphasis with **asterisks and _underscores_**.
+Nhiều thánh bàn phím ngoài kia nói với bạn rằng “nếu mày có được số điện thoại hoặc Facebook của 1 em xinh tươi thì mày phải chờ đúng 3 ngày trước khi liên lạc lại với em ý, nếu không mày sẽ hạ thấp giá trị bản thân của mình so với gái và gái sẽ coi thường mày.” – Nói ngu vãi cứt!
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Chân thành mà nói, bạn không phải là con ruồi duy nhất vo ve xung quanh nàng. Ngoài bạn ra còn có hàng tá con ruồi khác (chưa tính đến các thể loại ong, nhặng, côn trùng giun dế, cóc nhái nữa..).
 
----
+Chắc chắn là bạn đang tán gái xinh đúng không? Chứ gái xấu thì thôi khỏi đọc bài viết này rồi, yên tâm là gửi tin nhắn nào cô ta cũng trả lời hết. Chẳng cần học cách tán gái nào đâu.
 
-## Lists
+Nếu đúng là gái xinh. Như vậy thì xác suất có nhiều thằng ‘to con ngon củ’ hơn bạn cũng đang ve vãn nàng lại càng lớn. Trong khi bạn đang ngồi nhà quan tâm đến việc giữ cho bản thân có “giá trị cao’’ trong mắt nàng thì nàng đã bị thằng khác nó hốt rồi! Đừng hiểu lầm… Mình không bảo bạn quỳ gối van nỉ hạ thấp giá trị bản thân, mà muốn bạn biết mình biết người. Sự thật là gái có quá nhiều thằng theo đuổi, nếu em chờ lâu không liên lạc lại thì cô ta chả còn nhớ bạn là thằng côn trùng cóc nhái nào trong đám ruồi ngày ngày vo ve quanh cô ta đâu….**_Bạn nên nhớ: Miếng ngon phải chén liền tay, chớ để lâu ngày thằng khác nó xơi._**
 
-1. First ordered list item
-1. Another item
-   - Unordered sub-list.
-1. Actual numbers don't matter, just that it's a number
-   1. Ordered sub-list
-1. And another item.
+### Quy tắc 2: Đừng rơi vào số đông “đại trà” những kẻ đang nhắn tin với nàng
 
-- Unordered list can use asterisks
+Gái xinh bây giờ luôn có 1 điểm chung không lẫn đi đâu được:
 
-* Or minuses
+1. Suốt ngày cắm mặt vào điện thoại.
 
-- Or pluses
+1. Tin nhắn reo liên hồi.
 
----
+Hôm đó đang ngồi cafe với cô bạn hotgirl, điện thoại reo liên hồi thông báo tin nhắn đến. Mình mới hỏi đùa cô ta “Fan Club của cậu có vẻ đông nhỉ, cho xem cái nào’’ Cô ta đưa cho mình xem cái điện thoại…thì…Trời ơi là trời, 20+ cái tin nhắn zalo chưa đọc, cũng tầm 30+ ở Beetalk, inbox FB chờ hàng đống và phải đến 5 SMS từ các anh trai xã hội ất ơ rủ đi cà phê chém gió.
 
-## Links
+Vậy theo bạn với từng đó tin nhắn trong 1 ngày, cô ta có hứng thú trả lời 1 tin nhắn của bạn mà nó giống y xì đúc 99% những cái khác không? Tin nhắn từ Mạng xã hội thì xác suất rơi vào “Chào em”, “Hi” là cao nhất rồi sau đó đến “Em có khỏe không” Còn trong 5 ông anh xã hội gửi SMS thì có đến 3 mở mồm ra là đã mời đi café.
 
-[I'm an inline-style link](https://www.google.com/)
+Mình nói như vậy để bạn hiểu, nếu bạn viết những gì những thằng khác đã viết hoặc học theo những cách tán gái tào lao trên mạng thì không có cửa đâu.
 
-[I'm an inline-style link with title](https://www.google.com/ "Google's Homepage")
+Bạn hãy dũng cảm bắt đầu tin nhắn bằng 1 cái gì đó khác biệt. Nếu là Chat trên mạng xã hội thì bắt đầu kiểu gì cũng được, sai cũng không sao vì có ai biết ai đâu mà ngại. Miễn là nó khác những cái tin nhắn thiếu sáng tạo mà mình đã liệt kê ở trên. Mình đã từng tán đổ một cô gái chỉ bắt đầu với dòng text vô nghĩa ‘’Úi con gián!’’. Còn nếu đối với 1 cô gái mà bạn đã làm quen. Hãy bắt đầu bằng 1 điều gì đó tích cực. Hãy học cách mở đầu tin nhắn sao cho thú vị nhé!
 
-[I'm a reference-style link][arbitrary case-insensitive reference text]
+### Quy tắc 3: Đừng Quá Logic khi nhắn tin với phụ nữ
 
-[You can use numbers for reference-style link definitions][1]
+> Phụ nữ hành động theo cảm xúc
 
-Or leave it empty and use the [link text itself].
+Hãy tụng nó 1 ngày 3 lần như tụng kinh vậy bởi điều này xứng đáng được viết một cách trang trọng ngay ở trang 1 của cuốn từ điển bách khoa về phụ nữ.
 
-URLs and URLs in angle brackets will automatically get turned into links. http://www.example.com/ or <http://www.example.com/> and sometimes example.com (but not on GitHub, for example).
+Câu này không mới, chắc thằng nào cũng đã nghe mòn tai rồi. Nhưng nực cười ở chỗ là 95% những thằng đực thất bại lại là do không hiểu câu nói này. Bạn thấy đó, hiểu 1 câu triết lý tưởng chừng không khó mà lại khó không tưởng đúng không?
 
-Some text to show that the reference links can follow later.
+Để hôm nay mình giải nghĩa cho bạn nhé…Phụ nữ họ đếch quan tâm đến việc bạn nói gì và làm gì, quan trọng là cảm xúc mà bạn mang lại cho họ thông qua lời nói và hành động đó. Trí não bạn còn hơi mơ hồ phải không?
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org/
-[1]: http://slashdot.org/
-[link text itself]: http://www.reddit.com/
+Lại nhé!…
+Nghĩa là họ không cần biết lời nói và hành động của bạn là đúng hay sai đâu? Là tốt hay xấu? Có hợp với logic không? Có ý nghĩa gì không? Có tuân theo các định luật vật lý không?…
 
----
+Miễn là điều đó làm họ vui là được. Đối với họ 1+1=2 là một cái gì đó đúng nhưng vô cùng nhàm chán, 1+1=3 mới là điều họ cảm thấy thú vị. Nhưng các thằng con trai lại chết ở ngay chỗ này đây. Nó luôn hào hứng kể với nàng rằng 1+1=2 như 1 thứ chân lý nó vừa khám phá ra. Và khi nàng cong môi nũng nịu: ‘’Ứ! nhưng em thích 1+1=3 cơ’’ thì thằng óc lợn đó lại gân cổ trợn mắt, lấy tất cả cái sự hiểu biết vốn có của mình ra để chứng minh cho nàng hiểu chân lý 1+1 phải bằng 2. Vậy đó, sự lệch pha giữa 2 giới nằm ở ngay chỗ này:
 
-## Images
+> Đàn ông tư duy theo Logic, đàn bà hành động theo cảm xúc
 
-Here's our logo (hover to see the title text):
+Mình cá chắc rằng sau sau khi đọc bài này, phần bình luận ở dưới sẽ toàn là chửi, nào là “Nói thế gái nó tát cho vào mặt”, “Tán gái ai lại tán kiểu này”, “Hết cách tán gái rồi hay sao?” “Thời đại nào mà còn tán gái bằng những câu ntn?”…
 
-Inline-style: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+OK! Vậy hãy đặt logic vào việc tán gái, sử dụng logic để giao tiếp với phái đẹp, và bạn đã tự mình khai tử vì họ đếch quan tâm đến cái logic đó của bạn. Cũng giống như Yêu đương là chuyện của Con Tim chứ không phải là chuyện của Trí Não vậy.
 
-Reference-style: ![alt text][logo]
+Trả lời 1 tin nhắn “Anh làm nghề gì?” mà gái hỏi, đa phần những thằng Logic sẽ vênh mặt phun ngay ra đáp án: “Anh là kỹ sư IT” “Anh đang làm ngân hàng” hay cái nghề khỉ mốc gì đại loại thế… Liệu nàng có cần biết Kỹ sư IT là cái quỷ gì ko? Liệu cái IT đó có đem lại cho nàng tí cảm xúc gì không?
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Không nhé! Nếu là mình, mình sẽ trả lời như thế này: “À, nghề tay phải của anh là buôn Cần, nghề tay trái là bắt cóc trẻ em, đặc biệt là những bé gái xinh đẹp sinh năm 95 (Nếu em ý sinh năm 95), sợ anh chưa?” Qua ví dụ này bạn đã hiểu rồi chứ? Lời đáp của thằng thất bại tuy hợp Logic nhưng nhàm chán và là con số 0 tròn trĩnh. Lời đáp của mình vô nghĩa, phi Logic nhưng làm nàng thích thú. Và sự thật là mình cũng “bắt cóc” được khá nhiều bé gái trẻ đẹp bằng câu trả lời như thế rồi đó.
 
-Images from any folder can be used by providing path to file. Path should be relative to markdown file.
+### Quy tắc 4: Phải giàu
 
-![img](../static/img/logo.svg)
+Đúng rồi, nãy giờ mình nói cho lắm nhưng chốt lại nếu 1 cô gái bị bắt phải chọn giữa anh chàng tự làm ra tiền mua xe Wave và anh chàng được ông bà già cho tiền mua ô tô thì họ vẫn sẽ chọn thằng đi ô tô nên nói gì thì nói: **Có tiền thì mới làm phiền thiên hạ** - Huấn Rosé
 
----
+**Túm cái váy lại là có gì thắc mắc về tình yêu các bạn cứ inbox mình, mình sẽ tư vấn kĩ cho các bạn từ frenzone trở thành blockzone luôn :v.**
 
-## Code
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print(s)
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-```js {2}
-function highlightMe() {
-  console.log("This line can be highlighted!");
-}
-```
-
----
-
-## Tables
-
-Colons can be used to align columns.
-
-| Tables        |      Are      |   Cool |
-| ------------- | :-----------: | -----: |
-| col 3 is      | right-aligned | \$1600 |
-| col 2 is      |   centered    |   \$12 |
-| zebra stripes |   are neat    |    \$1 |
-
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
-
----
-
-## Blockquotes
-
-> Blockquotes are very handy in email to emulate reply text. This line is part of the same quote.
-
-Quote break.
-
-> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can _put_ **Markdown** into a blockquote.
-
----
-
-## Inline HTML
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-
-## Line Breaks
-
-Here's a line for us to start with.
-
-This line is separated from the one above by two newlines, so it will be a _separate paragraph_.
-
-This line is also a separate paragraph, but... This line is only separated by a single newline, so it's a separate line in the _same paragraph_.
-
----
-
-## Admonitions
-
-:::note
-
-This is a note
-
-:::
-
-:::tip
-
-This is a tip
-
-:::
-
-:::important
-
-This is important
-
-:::
-
-:::caution
-
-This is a caution
-
-:::
+**Link facebook mình : [https://www.facebook.com/cauvangdinhbacho](https://www.facebook.com/cauvangdinhbacho)**
 
 :::warning
 
-This is a warning
+Chống chỉ định mấy thằng đã có bồ vào xem rồi sủa dơ nghe.
 
 :::
