@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Hiếu Hoa Hồng Bờ Lốc',
+  title: 'Code Knowledge',
   tagline: 'My life runs on code',
   url: 'https://tuanconbu.github.io/Blog',
   baseUrl: '/',
@@ -9,11 +9,11 @@ module.exports = {
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Hiếu Rosé',
-      logo: {
-        alt: 'HNV',
-        src: 'img/hieu.jpg',
-      },
+      title: 'Blog',
+      // logo: {
+      //   alt: 'HNV',
+      //   src: 'img/hieu.jpg',
+      // },
       items: [
         {
           to: 'docs/',
@@ -21,7 +21,11 @@ module.exports = {
           label: 'Docs',
           position: 'right',
         },
-        { to: 'blog', label: 'Blog', position: 'right' },
+        {
+          to: 'blog',
+          label: 'Blog',
+          position: 'right'
+        },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -50,7 +54,7 @@ module.exports = {
             },
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/cauvangdinhbacho',
+              href: 'https://www.facebook.com/hieumaxnho',
             },
           ],
         },

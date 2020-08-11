@@ -20,11 +20,7 @@ Mặc dù bạn không thể chọn nơi xảy ra vụ ẩu đả, nhưng có nh
 
 - Nhìn xung quanh có cái gì phang được thì quất luôn không thì áp dụng quy tắc Tự vệ nêu trên.
 
-- Đứng cách xa đối thủ nửa mét, xong rồi tháo dép ra **CHẠY NHANH KHÔNG NÓ ĐẤM CHO THÌ VỠ MỒM.**
-
-- Nếu đối phương không cho mình đứng cách xa thì bạn nên vứt hết liêm sỉ mà xài chiêu cuối dưới đây:
-
-![gay pỏn](../static/img/gay.jpg)
+- Đứng cách xa đối thủ nửa mét, xong rồi tháo dép ra và **CHẠY NHANH HẾT MỨC CÓ THỂ.**
 
 ### 3. Dĩ hoà vi quý
 
@@ -34,4 +30,10 @@ Mặc dù bạn không thể chọn nơi xảy ra vụ ẩu đả, nhưng có nh
 
 - Thôi tốt nhất là anh ơi e xin lỗi cho e b\*s c\* làm lành đi a.
 
-** Các quy tắc trên có giúp bạn tránh bị đập khi ra đường không, nếu có thì nhớ like và follow fb của mình nhé. Link fb mình: [https://www.facebook.com/cauvangdinhbacho](https://www.facebook.com/cauvangdinhbacho)**
+** Các quy tắc trên có giúp bạn tránh bị đập khi ra đường không ? Nếu có thì nhớ like và follow fb của mình nhé. Link fb mình: [https://www.facebook.com/cauvangdinhbacho](https://www.facebook.com/cauvangdinhbacho)**
+
+---
+
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp _Tác giả : Hiếu Hôi Háng - Trưởng Hội Ế lâu năm mà giấu_
+
+---

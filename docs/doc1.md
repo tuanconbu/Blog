@@ -61,16 +61,22 @@ Trả lời 1 tin nhắn “Anh làm nghề gì?” mà gái hỏi, đa phần n
 
 Không nhé! Nếu là mình, mình sẽ trả lời như thế này: “À, nghề tay phải của anh là buôn Cần, nghề tay trái là bắt cóc trẻ em, đặc biệt là những bé gái xinh đẹp sinh năm 95 (Nếu em ý sinh năm 95), sợ anh chưa?” Qua ví dụ này bạn đã hiểu rồi chứ? Lời đáp của thằng thất bại tuy hợp Logic nhưng nhàm chán và là con số 0 tròn trĩnh. Lời đáp của mình vô nghĩa, phi Logic nhưng làm nàng thích thú. Và sự thật là mình cũng “bắt cóc” được khá nhiều bé gái trẻ đẹp bằng câu trả lời như thế rồi đó.
 
-### Quy tắc 4: Phải giàu
+### Quy tắc 4: Phải giàu :moneybag::moneybag::moneybag::moneybag:
 
 Đúng rồi, nãy giờ mình nói cho lắm nhưng chốt lại nếu 1 cô gái bị bắt phải chọn giữa anh chàng tự làm ra tiền mua xe Wave và anh chàng được ông bà già cho tiền mua ô tô thì họ vẫn sẽ chọn thằng đi ô tô nên nói gì thì nói: **Có tiền thì mới làm phiền thiên hạ** - Huấn Rosé
 
-**Túm cái váy lại là có gì thắc mắc về tình yêu các bạn cứ inbox mình, mình sẽ tư vấn kĩ cho các bạn từ frenzone trở thành blockzone luôn :v.**
+**Túm cái váy lại là có gì thắc mắc về tình yêu các bạn cứ inbox mình, mình sẽ tư vấn kĩ cho các bạn từ frenzone thành blockzone luôn :wink::wink::wink:.**
 
-**Link facebook mình : [https://www.facebook.com/cauvangdinhbacho](https://www.facebook.com/cauvangdinhbacho)**
+**Link facebook mình : [https://www.facebook.com/hieumaxnho](https://www.facebook.com/hieumaxnho)**
 
 :::warning
 
 Chống chỉ định mấy thằng đã có bồ vào xem rồi sủa dơ nghe.
 
 :::
+
+---
+
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp _Tác giả : Hiếu Hôi Háng - Trưởng Hội Ế lâu năm mà giấu_
+
+---

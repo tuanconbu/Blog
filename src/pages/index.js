@@ -8,20 +8,20 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Nơi giải toả tâm tư nỗi buồn</>,
-    imageUrl: 'https://i.pinimg.com/originals/a7/71/26/a77126ed93bff8d24aaa4aa44c77a9b8.jpg',
+    title: <>Code, code và code</>,
+    imageUrl: 'https://www.spacesworks.com/wp-content/uploads/2016/06/coding-in-the-classroom.png',
     description: (
       <>
-        Buồn thì ăn đầu quầy nhá, ăn cứt
+        Có code thì mới có ăn
       </>
     ),
   },
   {
-    title: <>Trang vui vẻ ko quạo</>,
-    imageUrl: 'https://i.ytimg.com/vi/bzZEH_5OuIs/maxresdefault.jpg',
+    title: <>Chia sẻ kinh nghiệm học tập và làm việc</>,
+    imageUrl: 'https://cdn.studyinternational.com/news/wp-content/uploads/2018/12/shutterstock_335587841.jpg',
     description: (
       <>
-        Dô mà quạo là chặn IP chặn MAC
+        Đúc kết được nhiều thứ từ những hậu quả mình gây ra.
       </>
     ),
   },
@@ -56,7 +56,7 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Trang chủ`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
